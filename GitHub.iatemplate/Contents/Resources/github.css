@@ -66,8 +66,14 @@
 }
 
 @media print {
+  @page {
+    margin: 5mm;
+  }
+
   .markdown-body {
-    --horizontal-padding: 75px;
+    --horizontal-padding: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
   }
   .markdown-body p {
     widows: 2;      /* avoid single lines at... */
