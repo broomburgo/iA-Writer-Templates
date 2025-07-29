@@ -71,9 +71,11 @@
   }
 
   .markdown-body {
-    --horizontal-padding: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    --horizontal-padding: 10mm;
+    margin-top: 15mm;
+    padding-bottom: 15mm;
+    padding-top: 0;
+    padding-bottom: 0;
   }
   .markdown-body p {
     widows: 2;      /* avoid single lines at... */
