@@ -9,7 +9,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>net.ia.writer.template.github.personal</string>
 	<key>CFBundleName</key>
-	<string>GitHub</string>
+	<string>GitHub Personal</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.1</string>
 	<key>CFBundleVersion</key>
