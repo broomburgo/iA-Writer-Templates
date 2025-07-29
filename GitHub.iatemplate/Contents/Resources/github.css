@@ -67,7 +67,7 @@
 
 @media print {
   @page {
-    margin: 5mm;
+    margin: 15mm;
   }
 
   .markdown-body {
